@@ -61,6 +61,6 @@ Las pruebas ayudaron a garantizar la estabilidad del sistema tras los cambios im
 ---
 
 ## 📬 Contacto
-- LinkedIn: https://www.linkedin.com/in/tu-enlace
+- LinkedIn: https://www.linkedin.com/in/tatiana-quenguan-47586b390/
 - GitHub: https://github.com/vataquema25-blip
 
