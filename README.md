@@ -1,66 +1,77 @@
-# Portafolio de QA Engineer – Tatiana
+# Tatiana Quenguan – QA Engineer Junior
+
+Portafolio profesional enfocado en testing manual y aseguramiento de la calidad del software.
+
+---
 
 ## 👩‍💻 Sobre mí
-Soy QA Engineer Junior con enfoque en testing manual y aseguramiento de la calidad del software. 
-Me estoy formando en el bootcamp de TripleTen, donde he trabajado en proyectos prácticos aplicando 
-técnicas de análisis, diseño de casos de prueba, reporte de bugs y validación de funcionalidades.
 
-Me interesa asegurar que los productos digitales funcionen correctamente, sean claros para el usuario 
-y cumplan con los requisitos establecidos.
+Soy QA Engineer Junior en formación, con experiencia práctica en proyectos de testing manual.
+Me enfoco en detectar errores, validar funcionalidades y asegurar que los productos digitales cumplan con los requisitos y la experiencia esperada por el usuario.
 
----
-
-## 🧰 Habilidades
-- Testing manual
-- Diseño de casos de prueba
-- Reporte de bugs
-- Análisis de requerimientos
-- Pruebas funcionales
-- Documentación de procesos
-- Metodologías ágiles (Scrum)
+Busco mi primera oportunidad profesional como QA para seguir creciendo en equipos de tecnología orientados a la calidad.
 
 ---
 
-## 📂 Proyectos
+## 🧪 Proyectos
 
 ### 🔹 Proyecto 1: Testing funcional de aplicación web
+
 **Contexto:**  
-Proyecto realizado durante el bootcamp de TripleTen con el objetivo de validar el correcto funcionamiento 
-de una aplicación web según los requerimientos entregados.
+Proyecto enfocado en validar el correcto funcionamiento de una aplicación web simulada.
 
-**Mi análisis:**  
+**Mi rol como QA:**  
 - Análisis de requisitos
-- Creación de casos de prueba
-- Ejecución de pruebas funcionales
-- Identificación y reporte de bugs
+- Diseño y ejecución de casos de prueba
+- Reporte de bugs
+- Validación de resultados
 
-**Conclusiones:**  
-Se detectaron errores críticos y de usabilidad que podían afectar la experiencia del usuario. 
-El proceso permitió reforzar la importancia de pruebas bien documentadas.
+**Herramientas:**  
+- Test cases  
+- Checklists  
+- Reportes de bugs  
 
-📎 Repositorio del proyecto:  
-(agregar enlace cuando lo tengas)
+🔗 Repositorio: (agregar enlace)
 
 ---
 
 ### 🔹 Proyecto 2: Pruebas de regresión
-**Contexto:**  
-Proyecto enfocado en validar que nuevas funcionalidades no afectaran características ya existentes.
 
-**Mi análisis:**  
-- Revisión de funcionalidades previas
+**Contexto:**  
+Validación de que nuevas funcionalidades no afecten comportamientos existentes del sistema.
+
+**Mi rol como QA:**  
 - Ejecución de pruebas de regresión
 - Documentación de resultados
+- Verificación de estabilidad
 
-**Conclusiones:**  
-Las pruebas ayudaron a garantizar la estabilidad del sistema tras los cambios implementados.
+**Herramientas:**  
+- Test cases  
+- Reportes  
 
-📎 Repositorio del proyecto:  
-(agregar enlace cuando lo tengas)
+🔗 Repositorio: (agregar enlace)
 
 ---
 
-## 📬 Contacto
-- LinkedIn: https://www.linkedin.com/in/tatiana-quenguan-47586b390/
-- GitHub: https://github.com/vataquema25-blip
+### 🔹 Proyecto 3: Testing de formularios y validaciones
 
+**Contexto:**  
+Evaluación de formularios web para asegurar validaciones correctas y experiencia de usuario.
+
+**Mi rol como QA:**  
+- Identificación de escenarios positivos y negativos
+- Reporte de errores
+- Pruebas exploratorias
+
+**Herramientas:**  
+- Checklists  
+- Pruebas manuales  
+
+🔗 Repositorio: (agregar enlace)
+
+---
+
+## 📫 Contacto
+
+- LinkedIn: https://www.linkedin.com/in/tu-enlace
+- GitHub: https://github.com/vataquema25-blip
