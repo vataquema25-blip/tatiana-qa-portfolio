@@ -49,8 +49,7 @@ Validación de que nuevas funcionalidades no afecten comportamientos existentes 
 - Test cases  
 - Reportes  
 
-🔗 Repositorio: (agregar enlace)
-
+🔗 Repositorio: https://github.com/vataquema25-blip/tripleten-qa-reporte-bugs/blob/main/README.md
 ---
 
 ### 🔹 Proyecto 3: Testing de formularios y validaciones
