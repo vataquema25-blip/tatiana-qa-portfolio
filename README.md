@@ -31,7 +31,7 @@ Proyecto enfocado en validar el correcto funcionamiento de una aplicación web s
 - Checklists  
 - Reportes de bugs  
 
-🔗 Repositorio: (agregar enlace)
+🔗 Repositorio: https://github.com/vataquema25-blip/tripleten-qa-proyecto-1/blob/main/README.md
 
 ---
 
