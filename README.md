@@ -66,7 +66,7 @@ Evaluación de formularios web para asegurar validaciones correctas y experienci
 - Checklists  
 - Pruebas manuales  
 
-🔗 Repositorio: (agregar enlace)
+🔗 Repositorio: https://github.com/vataquema25-blip/tripleten-qa-validacion-flujos/blob/main/README.md
 
 ---
 
