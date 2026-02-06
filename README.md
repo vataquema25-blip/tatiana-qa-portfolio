@@ -72,5 +72,5 @@ Evaluación de formularios web para asegurar validaciones correctas y experienci
 
 ## 📫 Contacto
 
-- LinkedIn: https://www.linkedin.com/in/tu-enlace
+- LinkedIn: https://www.linkedin.com/in/tatiana-quenguan-47586b390/
 - GitHub: https://github.com/vataquema25-blip
